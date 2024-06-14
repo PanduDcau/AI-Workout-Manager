@@ -14,7 +14,7 @@ The AI Workout Manager is a pose detection application that uses Python, OpenCV,
 Make sure you have Python 3 installed. Then, clone the repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/airscholar/AI-Workout-Manager.git
+git clone https://github.com/airscholar/AI-Workout-Manager.git](https://github.com/PanduDcau/AI-Workout-Manager.git
 cd AI-Workout-Manager
 pip install -r requirements.txt
 ```
