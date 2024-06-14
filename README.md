@@ -29,12 +29,11 @@ The AI Workout Manager relies on the following libraries:
 * Math and time libraries from Python's standard library.
 
 ## PullUp Work Exercise
-### Explanation of Changes
+### Explanation of Landmarks
 1. **Added Check for Landmarks**: In `extract_landmarks`, the function returns `None` for `wrist`, `shoulder`, and `hip` if the landmarks are not found.
 2. **Updated `calculate_and_display_angle`**: Added a check to ensure the landmarks are not `None` before calculating the angle.
 3. **Conditional Rendering**: Updated `render_ui` to handle `None` angles gracefully.
 
-This should resolve the error and ensure that the code runs without issues even if some frames do not have detectable landmarks.
 
 ## Usage
 
