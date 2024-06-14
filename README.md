@@ -35,8 +35,7 @@ The AI Workout Manager relies on the following libraries:
 3. **Conditional Rendering**: Updated `render_ui` to handle `None` angles gracefully.
 
 ## Deadlift Exercise
-deadlifts, the main movement involves the hip, knee, and ankle. The typical phases are:
-
+The main movement involves the hip, knee, and ankle. The typical phases are:
 1. **Start Position**: Standing upright with the barbell.
 2. **Lowering Phase**: Bending the knees and hips to lower the barbell to the ground.
 3. **Lifting Phase**: Extending the knees and hips to return to the standing position.
