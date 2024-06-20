@@ -5,7 +5,7 @@ import mediapipe as mp
 import numpy as np
 import pandas as pd
 
-# Define some colors
+# Define colors
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 GREEN = (0, 200, 0)
