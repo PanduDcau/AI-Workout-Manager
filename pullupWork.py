@@ -3,7 +3,7 @@ import time
 import cv2
 import mediapipe as mp
 import numpy as np
-import pandas
+import pandas as pd
 
 # Define colors
 WHITE = (255, 255, 255)
