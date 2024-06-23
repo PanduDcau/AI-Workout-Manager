@@ -4,10 +4,11 @@ The AI Workout Manager is a pose detection application that uses Python, OpenCV,
 
 ## Features
 
-1. Real-time pose detection.
+1. Real-time Pose detection.
 2. Exercise repetition counting.
 3. Visual interface with performance metrics.
 4. Elapsed time tracking.
+5. Angle Estimation in real time
 
 ## Installation
 
